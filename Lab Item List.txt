@@ -1,3 +1,7 @@
 1) Computers
 2) Chairs
 3) Tools
+4) Projector
+5) Printer
+6) Scanner
+7) Bar Code Scanner
